@@ -94,7 +94,7 @@ def battle(googoo, yang_man):  # 턴제로 싸우는 함수
             break
 
 # 몬스터 부르기
-target = input('1.양기철맨님 2.공영환맨님 3.이지영맨님 4.권기현튜터님 5.강기철튜터님 6.이창호튜터님')
+target = input('1.양기철맨님 2.공영환맨님 3.이지영맨님 4.권기현튜터님 5.강민철튜터님 6.이창호튜터님')
 if target == "1":
     battle(googoo, yang_man)  # user, monster 순서
 elif target == "2":
